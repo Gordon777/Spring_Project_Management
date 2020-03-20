@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: project-management
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Gordon
+Implementation-Vendor-Id: com.jrp
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/project-management
+Created-By: Maven Integration for Eclipse
+
